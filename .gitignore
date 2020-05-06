@@ -1,0 +1,15 @@
+__MACOSX/
+.DS_Store
+*~
+.idea/
+node_modules/
+npm-debug.log
+.vscode/
+jsconfig.json
+tsconfig.json
+yarn-error.log
+.envrc
+lokalise-config.js
+locales
+tmp
+dist
